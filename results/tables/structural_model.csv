@@ -1,0 +1,7 @@
+hypothesis,relationship,beta,se,t,p,ci_lower,ci_upper,VIF,f2,effect_size,decision
+H1,PEOU -> PU,0.506,0.112,4.538,<.001,0.293,0.714,1.000,0.345,Medium-near-large,Supported
+H2,PU -> BI,0.457,0.149,3.072,.002,0.151,0.741,1.631,0.205,Medium,Supported
+H3,PEOU -> BI,0.048,0.141,0.342,.732,-0.183,0.396,1.606,0.002,Negligible,Not supported
+H4,SI -> BI,0.077,0.133,0.580,.562,-0.196,0.315,1.378,0.007,Negligible,Not supported
+Control,AGE_CTRL -> BI,0.186,0.105,1.769,.077,-0.021,0.397,1.286,0.043,Small,Not significant
+Control,EXP_CTRL -> BI,0.125,0.137,0.914,.361,-0.163,0.380,1.435,0.017,Negligible,Not significant

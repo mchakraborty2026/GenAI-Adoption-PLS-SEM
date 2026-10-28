@@ -1,0 +1,2 @@
+indirect_path,indirect_beta,se,t,p,bc_ci_lower,bc_ci_upper,direct_beta,direct_p,mediation_type
+PEOU -> PU -> BI,0.232,0.090,2.584,.010,0.073,0.427,0.048,.732,Indirect-only mediation

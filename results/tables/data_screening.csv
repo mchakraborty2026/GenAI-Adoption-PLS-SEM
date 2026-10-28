@@ -1,0 +1,10 @@
+step,n,note
+Raw recorded responses,83,Starting Qualtrics export
+Preview/test records removed,3,Not real study participants
+Non-consenting responses removed,1,Consent criterion
+Ineligible responses removed,9,No prior academic GenAI use
+Failed attention checks removed,7,Required attention-check response not selected
+Missing-data exclusions,0,None
+Potential speeders removed,0,None identified using diagnostic screening
+Exact duplicate patterns removed,0,None identified
+Final usable analytic sample,63,Used for PLS-SEM analysis
